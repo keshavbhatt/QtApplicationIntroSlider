@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>slides/1.html</file>
+        <file>slides/2.html</file>
+        <file>slides/3.html</file>
+        <file>slides/4.html</file>
+        <file>slides/5.html</file>
+        <file>slides/6.html</file>
+        <file>slides/0.html</file>
+        <file>slides/images/1.png</file>
+        <file>slides/images/2.png</file>
+        <file>slides/images/3.png</file>
+        <file>slides/images/4.png</file>
+        <file>slides/images/5.png</file>
+        <file>slides/images/6.png</file>
+        <file>slides/7.html</file>
+        <file>slides/images/7.png</file>
+    </qresource>
+</RCC>

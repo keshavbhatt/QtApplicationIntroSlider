@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/arrow-left-circle-line.png</file>
+        <file>icons/arrow-right-circle-line.png</file>
+        <file>icons/app.png</file>
+        <file>icons/stop-line.png</file>
+        <file>icons/play-line.png</file>
+    </qresource>
+</RCC>
